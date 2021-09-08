@@ -1,5 +1,5 @@
 
-#!/bin/bash
+# !/bin/bash
 
 
 a=10
